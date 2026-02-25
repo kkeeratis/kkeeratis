@@ -1,13 +1,6 @@
-👋 Hi, I’m @kkeeratis.
-👀 I’m interested in data science in various fields and expanding my knowledge in other areas.
-🌱 I’m currently pursuing a master's degree in Data Science at Srinakharinwirot University..
-💞️ I’m looking to collaborate on exciting projects related to data science and its applications.
-📫 How to reach me by Email address at k.sassanapitak@gmail.com
-😄 Pronouns: Call me Kee.
-⚡ Fun fact: Fun fact: Currently, I balance both work and studies simultaneously. In my free time, 
-    I regularly engage in exercise, with running being my absolute favorite activity.
-
-<!---
-kkeeratis/kkeeratis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Keeratis (Kee)
+🎓 Master's student in Data Science at Srinakharinwirot University, balancing full-time work and academia simultaneously.
+📊 Passionate about data science and its real-world applications across diverse industries — always eager to expand knowledge beyond the field.
+💞️ Open to collaborating on data science projects and innovative applications. If you have an exciting idea, let's connect!
+📫 Reach me at: k.sassanapitak@gmail.com
+⚡ Outside of data: You'll likely find me on a running trail — it's my go-to way to reset and recharge.
